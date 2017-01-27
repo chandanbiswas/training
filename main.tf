@@ -20,7 +20,7 @@
 
 
 variable "num_webs" {
-   default = "2"
+   default = "4"
 }
 
 variable "aws_access_key" {
